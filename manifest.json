@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Gumatal",
+  "name": "Gumatal Landing",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "./static/img/logo.svg",
+      "type": "image/svg",
+      "sizes": "245x73"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "./static/img/logo.svg",
+      "type": "image/svg",
+      "sizes": "245x73"
     }
   ],
   "start_url": ".",
