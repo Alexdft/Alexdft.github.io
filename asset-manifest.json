@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c08c6e75.css",
-    "main.js": "/static/js/main.73bdde83.js",
+    "main.css": "/static/css/main.56b8f5a0.css",
+    "main.js": "/static/js/main.31877ad3.js",
     "static/js/787.29ed6b74.chunk.js": "/static/js/787.29ed6b74.chunk.js",
     "static/media/logoMobile.svg": "/static/media/logoMobile.1400826fa303be8a42c3274b43569905.svg",
     "static/media/woodec-logo.svg": "/static/media/woodec-logo.4c199be78123f09bad67a33b006469d8.svg",
@@ -19,12 +19,12 @@
     "static/media/UnionBottom.svg": "/static/media/UnionBottom.0c9ddba211f5fc5e67ff7b01cab12f63.svg",
     "static/media/Union.svg": "/static/media/Union.37069035d394d82a3234.svg",
     "static/media/right_chevron_icon.svg": "/static/media/right_chevron_icon.ba35cb2c660dc43b6f153562a732374d.svg",
-    "main.c08c6e75.css.map": "/static/css/main.c08c6e75.css.map",
-    "main.73bdde83.js.map": "/static/js/main.73bdde83.js.map",
+    "main.56b8f5a0.css.map": "/static/css/main.56b8f5a0.css.map",
+    "main.31877ad3.js.map": "/static/js/main.31877ad3.js.map",
     "787.29ed6b74.chunk.js.map": "/static/js/787.29ed6b74.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c08c6e75.css",
-    "static/js/main.73bdde83.js"
+    "static/css/main.56b8f5a0.css",
+    "static/js/main.31877ad3.js"
   ]
 }
